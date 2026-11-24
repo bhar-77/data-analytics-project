@@ -1,0 +1,7 @@
+airline_name,iata_code,total_flights,avg_price,min_price,max_price,avg_duration_hours
+IndiGo,6E,1247,4086.69,2033.41,7917.46,2.74
+Air India,AI,1632,6820.38,2363.05,27038.85,2.53
+Vistara,UK,1586,7543.47,2654.24,29042.97,2.53
+SpiceJet,SG,1249,4062.73,2058.01,7939.29,2.68
+Air India Express,IX,1210,4040.9,2050.29,7911.47,2.85
+Akasa Air,QP,1228,4037.07,2115.73,8321.96,2.73

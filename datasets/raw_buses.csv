@@ -1,0 +1,11 @@
+operator,type,source,destination,dep,arr,duration,price,rating
+KSRTC (FlyBus / Ambaari Dream Class),Volvo Multi-Axle AC Sleeper,Bengaluru,Chennai,22:30:00,05:30:00,7.0,950,4.6
+Orange Tours and Travels,Scania AC Multi-Axle Semi-Sleeper,Bengaluru,Hyderabad,21:00:00,06:30:00,9.5,1200,4.4
+SRS Travels,BharatBenz AC Sleeper (2+1),Bengaluru,Goa,20:30:00,08:30:00,12.0,1450,4.2
+VRL Travels,Volvo I-Shift Multi-Axle AC Sleeper,Bengaluru,Pune,18:00:00,08:00:00,14.0,1750,4.5
+Zingbus,Volvo AC Electric Luxury Coach,Delhi,Pune,14:00:00,12:00:00,22.0,2400,4.3
+IntrCity SmartBus,Mercedes Multi-Axle AC Club Class,Mumbai,Goa,21:30:00,08:30:00,11.0,1350,4.5
+Neeta Tours & Travels,Volvo B11R Multi-Axle AC Sleeper,Mumbai,Pune,06:00:00,09:30:00,3.5,450,4.1
+MSRTC Shivneri,Volvo 9400 AC Super Deluxe,Pune,Mumbai,07:30:00,11:00:00,3.5,530,4.7
+Morning Star Travels,Scania AC Diamond Class Sleeper,Hyderabad,Chennai,21:15:00,06:45:00,9.5,1150,4.3
+Greenline Travels,Volvo AC Sleeper Multi-Axle,Bengaluru,Mumbai,16:00:00,09:30:00,17.5,1900,4.2

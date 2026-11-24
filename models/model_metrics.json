@@ -1,0 +1,311 @@
+{
+  "model_name": "RandomForestRegressor",
+  "model_version": "v1.0.0",
+  "training_date": "2026-11-24 11:25:28",
+  "total_samples": 8152,
+  "train_samples": 6521,
+  "test_samples": 1631,
+  "metrics": {
+    "mae": 288.13,
+    "mse": 193672.68,
+    "rmse": 440.08,
+    "r2_score": 0.9827,
+    "accuracy_percentage": 98.27
+  },
+  "feature_importance": [
+    {
+      "feature": "travel_class_Economy",
+      "importance": 0.4735
+    },
+    {
+      "feature": "travel_class_Business",
+      "importance": 0.2937
+    },
+    {
+      "feature": "duration_hours",
+      "importance": 0.1186
+    },
+    {
+      "feature": "days_left",
+      "importance": 0.0545
+    },
+    {
+      "feature": "airline_Vistara",
+      "importance": 0.0167
+    },
+    {
+      "feature": "stops",
+      "importance": 0.0156
+    },
+    {
+      "feature": "airline_Air India",
+      "importance": 0.0072
+    },
+    {
+      "feature": "is_weekend",
+      "importance": 0.006
+    },
+    {
+      "feature": "departure_hour",
+      "importance": 0.0027
+    },
+    {
+      "feature": "source_city_Delhi",
+      "importance": 0.0015
+    }
+  ],
+  "actual_vs_predicted_sample": [
+    {
+      "actual": 2672.38,
+      "predicted": 2768.85,
+      "route": "Bengaluru -> Hyderabad",
+      "airline": "Akasa Air"
+    },
+    {
+      "actual": 2797.91,
+      "predicted": 3028.3,
+      "route": "Goa -> Bengaluru",
+      "airline": "Akasa Air"
+    },
+    {
+      "actual": 4383.72,
+      "predicted": 3649.74,
+      "route": "Pune -> Chennai",
+      "airline": "Akasa Air"
+    },
+    {
+      "actual": 4019.33,
+      "predicted": 3885.34,
+      "route": "Goa -> Pune",
+      "airline": "Air India"
+    },
+    {
+      "actual": 3049.39,
+      "predicted": 2997.67,
+      "route": "Hyderabad -> Bengaluru",
+      "airline": "SpiceJet"
+    },
+    {
+      "actual": 4198.89,
+      "predicted": 4461.09,
+      "route": "Delhi -> Hyderabad",
+      "airline": "Akasa Air"
+    },
+    {
+      "actual": 4846.24,
+      "predicted": 4330.41,
+      "route": "Kolkata -> Bengaluru",
+      "airline": "Air India"
+    },
+    {
+      "actual": 4865.37,
+      "predicted": 5208.19,
+      "route": "Kolkata -> Pune",
+      "airline": "Air India"
+    },
+    {
+      "actual": 2124.01,
+      "predicted": 2444.95,
+      "route": "Goa -> Mumbai",
+      "airline": "Air India Express"
+    },
+    {
+      "actual": 2770.01,
+      "predicted": 2736.08,
+      "route": "Hyderabad -> Bengaluru",
+      "airline": "Akasa Air"
+    },
+    {
+      "actual": 3989.3,
+      "predicted": 4227.71,
+      "route": "Kolkata -> Hyderabad",
+      "airline": "Air India"
+    },
+    {
+      "actual": 4595.62,
+      "predicted": 4548.61,
+      "route": "Kolkata -> Goa",
+      "airline": "Akasa Air"
+    },
+    {
+      "actual": 4211.5,
+      "predicted": 4233.13,
+      "route": "Hyderabad -> Pune",
+      "airline": "SpiceJet"
+    },
+    {
+      "actual": 3553.56,
+      "predicted": 3762.27,
+      "route": "Hyderabad -> Pune",
+      "airline": "Akasa Air"
+    },
+    {
+      "actual": 3115.61,
+      "predicted": 3452.93,
+      "route": "Goa -> Pune",
+      "airline": "Air India Express"
+    },
+    {
+      "actual": 4379.35,
+      "predicted": 4300.93,
+      "route": "Bengaluru -> Delhi",
+      "airline": "Akasa Air"
+    },
+    {
+      "actual": 4488.89,
+      "predicted": 4583.45,
+      "route": "Pune -> Mumbai",
+      "airline": "Air India Express"
+    },
+    {
+      "actual": 4311.69,
+      "predicted": 4097.29,
+      "route": "Mumbai -> Pune",
+      "airline": "IndiGo"
+    },
+    {
+      "actual": 21565.75,
+      "predicted": 19979.24,
+      "route": "Goa -> Delhi",
+      "airline": "Vistara"
+    },
+    {
+      "actual": 5024.16,
+      "predicted": 4895.12,
+      "route": "Kolkata -> Mumbai",
+      "airline": "IndiGo"
+    },
+    {
+      "actual": 2759.91,
+      "predicted": 2916.38,
+      "route": "Pune -> Bengaluru",
+      "airline": "Air India Express"
+    },
+    {
+      "actual": 4668.16,
+      "predicted": 3969.23,
+      "route": "Hyderabad -> Goa",
+      "airline": "Air India"
+    },
+    {
+      "actual": 4617.49,
+      "predicted": 4432.67,
+      "route": "Mumbai -> Bengaluru",
+      "airline": "Air India"
+    },
+    {
+      "actual": 5254.72,
+      "predicted": 5255.86,
+      "route": "Pune -> Goa",
+      "airline": "SpiceJet"
+    },
+    {
+      "actual": 4703.08,
+      "predicted": 4862.78,
+      "route": "Delhi -> Goa",
+      "airline": "SpiceJet"
+    },
+    {
+      "actual": 2601.31,
+      "predicted": 2718.09,
+      "route": "Chennai -> Hyderabad",
+      "airline": "Akasa Air"
+    },
+    {
+      "actual": 6340.4,
+      "predicted": 6010.7,
+      "route": "Pune -> Chennai",
+      "airline": "Air India Express"
+    },
+    {
+      "actual": 5280.6,
+      "predicted": 4853.9,
+      "route": "Hyderabad -> Delhi",
+      "airline": "IndiGo"
+    },
+    {
+      "actual": 3497.12,
+      "predicted": 3053.59,
+      "route": "Chennai -> Mumbai",
+      "airline": "Akasa Air"
+    },
+    {
+      "actual": 2877.51,
+      "predicted": 3186.59,
+      "route": "Mumbai -> Goa",
+      "airline": "IndiGo"
+    },
+    {
+      "actual": 5496.27,
+      "predicted": 5317.62,
+      "route": "Pune -> Chennai",
+      "airline": "Vistara"
+    },
+    {
+      "actual": 3978.21,
+      "predicted": 3801.71,
+      "route": "Goa -> Kolkata",
+      "airline": "IndiGo"
+    },
+    {
+      "actual": 4994.63,
+      "predicted": 4467.82,
+      "route": "Kolkata -> Pune",
+      "airline": "Air India"
+    },
+    {
+      "actual": 4215.71,
+      "predicted": 3599.42,
+      "route": "Pune -> Chennai",
+      "airline": "Akasa Air"
+    },
+    {
+      "actual": 3810.25,
+      "predicted": 3803.94,
+      "route": "Pune -> Hyderabad",
+      "airline": "IndiGo"
+    },
+    {
+      "actual": 5798.2,
+      "predicted": 6156.48,
+      "route": "Delhi -> Bengaluru",
+      "airline": "Air India"
+    },
+    {
+      "actual": 4694.74,
+      "predicted": 4776.75,
+      "route": "Kolkata -> Bengaluru",
+      "airline": "Air India Express"
+    },
+    {
+      "actual": 4111.65,
+      "predicted": 4139.01,
+      "route": "Goa -> Pune",
+      "airline": "SpiceJet"
+    },
+    {
+      "actual": 3573.51,
+      "predicted": 3633.88,
+      "route": "Goa -> Kolkata",
+      "airline": "IndiGo"
+    },
+    {
+      "actual": 3312.69,
+      "predicted": 3484.65,
+      "route": "Mumbai -> Bengaluru",
+      "airline": "SpiceJet"
+    }
+  ],
+  "features_used": [
+    "airline",
+    "source_city",
+    "destination_city",
+    "departure_hour",
+    "duration_hours",
+    "stops",
+    "travel_class",
+    "days_left",
+    "is_weekend",
+    "journey_month"
+  ]
+}

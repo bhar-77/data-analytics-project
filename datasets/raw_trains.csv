@@ -1,0 +1,22 @@
+train_number,train_name,source,destination,dep,arr,duration,class,fare,runs
+20607,Vande Bharat Express,Chennai,Bengaluru,05:50:00,10:10:00,4.33,CC,995,Except Wed
+20607,Vande Bharat Express,Chennai,Bengaluru,05:50:00,10:10:00,4.33,EC,1880,Except Wed
+20608,Vande Bharat Express,Bengaluru,Chennai,14:50:00,19:20:00,4.5,CC,995,Except Wed
+22625,Double Decker Express,Chennai,Bengaluru,07:25:00,13:10:00,5.75,CC,505,Daily
+22691,Bengaluru Rajdhani Express,Bengaluru,Delhi,20:00:00,05:30:00,33.5,3A,3250,Daily
+22691,Bengaluru Rajdhani Express,Bengaluru,Delhi,20:00:00,05:30:00,33.5,2A,4650,Daily
+22691,Bengaluru Rajdhani Express,Bengaluru,Delhi,20:00:00,05:30:00,33.5,1A,7120,Daily
+12627,Karnataka Express,Bengaluru,Delhi,19:20:00,09:00:00,37.66,SL,890,Daily
+12951,Mumbai Rajdhani Express,Mumbai,Delhi,17:00:00,08:32:00,15.53,3A,2480,Daily
+12951,Mumbai Rajdhani Express,Mumbai,Delhi,17:00:00,08:32:00,15.53,2A,3490,Daily
+12951,Mumbai Rajdhani Express,Mumbai,Delhi,17:00:00,08:32:00,15.53,1A,5420,Daily
+12953,August Kranti Rajdhani,Mumbai,Delhi,17:10:00,09:43:00,16.55,3A,2350,Daily
+22221,CSMT Rajdhani Express,Mumbai,Delhi,16:00:00,09:55:00,17.91,3A,2420,Daily
+12123,Deccan Queen Superfast,Mumbai,Pune,17:10:00,20:25:00,3.25,CC,385,Daily
+22225,Solapur Vande Bharat,Mumbai,Pune,16:05:00,19:10:00,3.08,CC,560,Except Wed
+12785,Kacheguda Express,Bengaluru,Hyderabad,18:20:00,05:40:00,11.33,3A,1150,Daily
+20704,Vande Bharat Express,Bengaluru,Hyderabad,14:45:00,23:00:00,8.25,CC,1540,Except Wed
+20703,Vande Bharat Express,Hyderabad,Bengaluru,05:30:00,14:00:00,8.5,CC,1540,Except Wed
+12051,Jan Shatabdi Express,Mumbai,Goa,05:10:00,16:30:00,11.33,CC,1025,Daily
+22229,Goa Vande Bharat Express,Mumbai,Goa,05:25:00,13:10:00,7.75,CC,1660,"Mon, Wed, Fri"
+22229,Goa Vande Bharat Express,Mumbai,Goa,05:25:00,13:10:00,7.75,EC,3115,"Mon, Wed, Fri"
